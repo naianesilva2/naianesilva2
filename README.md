@@ -16,10 +16,4 @@
   <img align="center" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
-##
 
-<div>
-  <a href="https://www.linkedin.com/in/Naiane da Silva Pereira-77812925a/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=GTvVlcSHxGkhpmQHRPlnVDCDQVQGkkfhvPKNQCZbhdpTSNlLJPNFCHnvCSgttWMDpCXszfNMFNpdC"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-</div>
